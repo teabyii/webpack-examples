@@ -8,5 +8,5 @@
 - 第 3，4，5，6 小节的配置参考 [details](./details) 目录
 - 第 7 小节的配置参考 [environment](./environment) 目录
 - 第 9，10，11 小节的配置参考 [optimize](./optimize) 目录
-- 第 14，15 小节的配置参考 [developing](./development) 目录
-- 可以覆盖大部分项目需求的配置文件参考 [powerful](./powerful) 目录（未完成，链接不可能，抱歉，我尽快）
+- 第 14，15 小节的配置参考 [developing](./developing) 目录
+- 可以覆盖大部分项目需求的配置文件参考 [powerful](./powerful) 目录（未完成，链接不可用，抱歉，我尽快）
